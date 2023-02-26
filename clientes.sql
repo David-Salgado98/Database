@@ -1,0 +1,5 @@
+INSERT INTO `dbch22`.`clients` (`username`, `password`, `email`, `first_name`, `last_name`) VALUES ('david', 'cont1', 'correo@correo.com', 'David', 'Salgado');
+INSERT INTO `dbch22`.`clients` (`username`, `password`, `email`, `first_name`, `last_name`) VALUES ('victor', 'cont2', 'correo@correo.com', 'Victor', 'Garcia');
+INSERT INTO `dbch22`.`clients` (`username`, `password`, `email`, `first_name`, `last_name`) VALUES ('bryan', 'cont3', 'correo@correo.com', 'Bryan', 'Correa');
+INSERT INTO `dbch22`.`clients` (`username`, `password`, `email`, `first_name`, `last_name`) VALUES ('Jennifer', 'cont4', 'correo@correo.com', 'Jeniffer', 'Otero');
+INSERT INTO `dbch22`.`clients` (`username`, `password`, `email`, `first_name`, `last_name`) VALUES ('claudia', 'cont5', 'correo@correo.com', 'Claudia', 'Flores');
